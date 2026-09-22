@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>8a</title>
+
+    <style>
+        input {
+            display: block;
+            margin-bottom: 8px;
+            font-size: 20px;
+            padding: 8px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <input type="text" placeholder="Name">
+
+    <input type="email" placeholder="Email">
+
+</body>
+</html>
